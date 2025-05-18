@@ -19,9 +19,9 @@ This project focuses on analyzing historical stock data for multiple companies (
 stock-price-analysis/
 │
 
-├── FinancialTime_SeriesAnomalyDetection.ipynb # Main Jupyter notebook
+├── FinancialTime_SeriesAnomalyDetection.ipynb 
 
-├── Stock_Price_Analysis_using_Python_Report.docx # Summary report (1–2 pages)
+├── Stock_Price_Analysis_using_Python_Report.docx 
 
 ├── requirements.txt # Required Python packages
 
